@@ -2,7 +2,7 @@
 
  1. Clone the project
 
-     ``` git clone https://github.com/rimakan/omnifood.git ```
+     ``` git clone https://github.com/rimakan/guess-a-number-js.git ```
 
  2. Install Live server extension (for VSCode)
  3. Open index.html 
